@@ -289,12 +289,11 @@ Secure password hashes and credential databases against unauthorized access.
 
 <div align="center">
   
-**Ukwueze Uchenna Collins**
+**Dickson Kenneth Chigozie**
 
 **Cybersecurity Intern | Networkwalks | Batch B084**
 
-LinkedIn: www.linkedin.com/in/uchenna-u-6b4377367
-
+www.linkedin.com/in/kenneth-dickson-3868631b3
 </div>
 
 ---
