@@ -211,13 +211,13 @@ The tool read the file and gave me a hash value that starts with ```$pdf$```.
 
 The Networkwalks Password Cracker was opened in my web browser, and the hash value I previously copied was pasted into it.
 
-<img width="1920" height="1080" alt="module2b" src="https://github.com/user-attachments/assets/c720373a-4855-4c62-9135-d41d98d090e0" />
+<img width="1247" height="632" alt="image" src="https://github.com/user-attachments/assets/854ab502-d23c-4e1a-af81-cac7f208ae05" />
 
 ---
 
 The attack was subsequently started by clicking ```start cracking```. The tool will try different passwords until it finds a match, and the cracked password will be displayed on the screen.
 
-<img width="1920" height="1080" alt="module2c" src="https://github.com/user-attachments/assets/916feccc-fdf5-4dc1-9d30-58213b2d888d" />
+<img width="1251" height="632" alt="image" src="https://github.com/user-attachments/assets/5c118437-5f9b-4c2a-973e-e50f7b9678f8" />
 
 > 🚦 **Note: The time taken depends on how simple or complex the password is.**
 
@@ -230,7 +230,7 @@ I opened the locked PDF file and entered the cracked password which I just disco
 That is, ```password1``` (which I have just cracked): 
 
 
-<img width="1920" height="1080" alt="Module2d" src="https://github.com/user-attachments/assets/8782e8e4-75f8-4c45-8c9f-dd9e8660c527" />
+<img width="1257" height="637" alt="image" src="https://github.com/user-attachments/assets/f695cab8-939d-4e38-b1e8-3ca7d4d7790e" />
 
 ---
 
@@ -238,7 +238,7 @@ That is, ```password1``` (which I have just cracked):
 
 The PDF file opens, and my lab is completed. 
 
-<img width="1920" height="1080" alt="Module2e" src="https://github.com/user-attachments/assets/c3fd0ab2-7391-49b2-ab1f-8796e577820c" />
+<img width="1252" height="627" alt="image" src="https://github.com/user-attachments/assets/a0a25e41-ad8c-41f8-b593-5e0210d16349" />
 
 ---
 
